@@ -1,0 +1,17 @@
+{
+  "name": "showtree",
+  "version": "1.0.0",
+  "description": "A Node Program to detect files & folders",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Folder Structure"
+  ],
+  "author": "Rakshith S N",
+  "license": "MIT",
+  "bin": {
+    "shw": "index.js"
+  }
+}
